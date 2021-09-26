@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #87CEFA;
+}
+
+.content{
+  margin-top: 50px;
+}
+
+.enunc{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.grid{
+  display: flex;
+  margin-top: 30px;
+}
+
+.col1{
+  width: 70%;
+  margin-right: 20px;
+}
+
+img{
+  width: 40%;
+  float: left;
+  margin-right: 20px;
+}
+
+.banner1, .banner2, .banner3{
+  padding: 30px 30px 30px 30px;
+}
+
+.banner1{
+  background-color: white;
+  margin-bottom: 20px;
+  padding-bottom: 80px;
+}
+
+.banner2{
+  background-color: white;
+  margin-bottom: 20px;
+  padding-bottom: 70px;
+}
+
+.banner3{
+  background-color: white;
+  padding-bottom: 140px;
+}
+
+.contban1, .contban2, .contban3{
+  background-color: white;
+  margin-top: 20px;
+}
+
+.enuncbanner1, .enuncbanner2, .enuncbanner3{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.infobanner1, .infobanner2, .infobanner3{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  font-size: 16px;
+}
+
+
+.col2{
+  width: 30%;
+}
+
+.contlat{
+  background-color: white;
+  padding: 30px 30px 30px 30px;
+}
+
+.enuncblateral{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.listabanner{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  font-size: 16px;
+}
+
+ol{
+  padding-left: 20px;
+}
+
+li{
+  padding-top: 10px;
+}
+
+.footer{
+  text-align: center;
+  margin: 20px 0 20px 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: white;
+}
+
+.nomefooter{
+  font-weight: 600;
+}
